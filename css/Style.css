@@ -1,0 +1,25 @@
+
+
+h1 {
+    color: cornflowerblue;
+}
+
+.hidden{
+    display: none;
+}
+/* body { 
+
+} */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li{
+    text-align: center;
+}
+
+h2{
+    font-size:50px
+}
